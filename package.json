@@ -1,0 +1,15 @@
+{
+  "name": "html-command-on-cl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin":{
+    "touch5":"bash"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
